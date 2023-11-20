@@ -1,4 +1,4 @@
-# c-02; Master Deployments of Static Websites on the Internet Computer
+# astroweb; Master Deployments of Static Websites on the Internet Computer
 
 This is a sample project used to demonstrates how to deploy a static website to the Internet Computer using the [DFINITY Canister SDK](https://sdk.dfinity.org/docs/quickstart/local-quickstart.html).
 
